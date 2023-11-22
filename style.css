@@ -1,0 +1,23 @@
+header{
+    height: 650px;
+}
+.section-1 img{
+    height: 650px !important;
+}
+.section-2{
+    height: 530px;
+}
+.footer_top{
+    height: 500px;
+}
+.footer_top img{
+    height: 500px !important;
+    width: 630px !important;
+}
+.footer_bottom{
+    height: 250px;
+    background-color: #042538;
+}
+/* .bdr{
+    border: 1px solid black;
+} */
